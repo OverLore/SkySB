@@ -1,0 +1,5 @@
+islands_space: 1000
+islands_start_size: 50
+islands_max_size: 500
+world_name: "skyblock"
+max_team_size: 4

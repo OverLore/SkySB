@@ -1,0 +1,14 @@
+name: SkySB
+version: '${project.version}'
+main: skysb.skysb.SkySB
+api-version: 1.19
+prefix: SkyBlock
+depend: [ SkyFont, Vault, SkyPlayer ]
+authors: [ Yellox_Wind ]
+description: Plugin de shop du serveur SkyNeoxx
+website: https://github.com/yelloxwind
+commands:
+  is:
+    description: Commande principale
+    usage: /<command>
+    permission: skyblock.is
